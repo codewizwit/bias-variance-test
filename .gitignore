@@ -2,9 +2,6 @@ node_modules/
 dist/
 *.log
 
-# Results files (contain API responses - regenerate locally)
+# JSON results (contain raw API responses - regenerate locally)
 bias-test-results.json
-bias-test-results.html
-bias-variance-results.html
 call-center-results.json
-call-center-results.html
