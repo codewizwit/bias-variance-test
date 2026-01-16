@@ -85,7 +85,9 @@ The HTML output includes:
 - Flagged findings highlighted
 - Equity allocation comparisons
 
-Screenshot the dashboard or embed charts directly in slides.
+### Sample Results
+
+![Bias Test Results](results-screenshot.png)
 
 ## Credits
 
